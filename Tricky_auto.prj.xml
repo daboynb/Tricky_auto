@@ -1,0 +1,179 @@
+<TaskerData sr="" dvi="1" tv="6.3.13">
+	<dmetric>1080.0,2166.0</dmetric>
+	<Profile sr="prof3" ve="2">
+		<cdate>1722793822595</cdate>
+		<edate>1722860933802</edate>
+		<flags>8</flags>
+		<id>3</id>
+		<mid0>5</mid0>
+		<Event sr="con0" ve="2">
+			<code>450</code>
+			<Str sr="arg0" ve="3"/>
+			<Str sr="arg1" ve="3"/>
+		</Event>
+	</Profile>
+	<Project sr="proj0" ve="2">
+		<cdate>1722793555015</cdate>
+		<name>Tricky_auto</name>
+		<pids>3</pids>
+		<scenes>IconAndTextMenu</scenes>
+		<tids>5</tids>
+		<Kid sr="Kid">
+			<launchID>4</launchID>
+			<pkg>com.tricky_auto.com</pkg>
+			<vTarg>29</vTarg>
+			<vnme>1.0</vnme>
+		</Kid>
+		<Img sr="icon" ve="2">
+			<nme>mw_action_build</nme>
+		</Img>
+	</Project>
+	<Scene sr="sceneIconAndTextMenu">
+		<cdate>1722858825933</cdate>
+		<edate>1722858825933</edate>
+		<heightLand>-1</heightLand>
+		<heightPort>562</heightPort>
+		<nme>IconAndTextMenu</nme>
+		<widthLand>-1</widthLand>
+		<widthPort>774</widthPort>
+		<ListElement sr="elements0">
+			<flags>5</flags>
+			<geom>15,177,742,328,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Menu</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3"/>
+			<Int sr="arg3" val="1"/>
+			<Scene sr="arg4">
+				<Scene sr="val">
+					<cdate>1722858825933</cdate>
+					<edate>1722858825933</edate>
+					<heightLand>-1</heightLand>
+					<heightPort>168</heightPort>
+					<nme>Builtin Item Layout</nme>
+					<widthLand>-1</widthLand>
+					<widthPort>742</widthPort>
+					<ImageElement sr="elements0" ve="2">
+						<flags>5</flags>
+						<geom>573,15,153,137,-1,-1,-1,-1</geom>
+						<Str sr="arg0" ve="3">Icon</Str>
+						<Img sr="arg1" ve="2">
+							<nme>hd_aaa_ext_tiles_small</nme>
+						</Img>
+						<Int sr="arg2" val="255"/>
+					</ImageElement>
+					<TextElement sr="elements1" ve="3">
+						<flags>5</flags>
+						<geom>112,15,445,137,-1,-1,-1,-1</geom>
+						<Str sr="arg0" ve="3">Label</Str>
+						<Str sr="arg1" ve="3"/>
+						<Int sr="arg2" val="24"/>
+						<Int sr="arg3" val="100"/>
+						<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+						<Str sr="arg5" ve="3"/>
+						<Int sr="arg6" val="3"/>
+						<Int sr="arg7"/>
+						<Int sr="arg8"/>
+					</TextElement>
+					<TextElement sr="elements2" ve="3">
+						<flags>1</flags>
+						<geom>15,15,81,137,-1,-1,-1,-1</geom>
+						<Str sr="arg0" ve="3">Index</Str>
+						<Str sr="arg1" ve="3">1.</Str>
+						<Int sr="arg2" val="24"/>
+						<Int sr="arg3" val="100"/>
+						<Str sr="arg4" ve="3">#FFFFFFFF</Str>
+						<Str sr="arg5" ve="3"/>
+						<Int sr="arg6" val="0"/>
+						<Int sr="arg7"/>
+						<Int sr="arg8"/>
+					</TextElement>
+					<PropertiesElement sr="props">
+						<Int sr="arg0" val="1"/>
+						<Int sr="arg1" val="0"/>
+						<Str sr="arg2" ve="3">#00000000</Str>
+						<Int sr="arg3" val="0"/>
+						<Str sr="arg4" ve="3">Builtin Item Layout</Str>
+						<Str sr="arg5" ve="3"/>
+						<Img sr="arg6" ve="2"/>
+						<Str sr="arg7" ve="3"/>
+					</PropertiesElement>
+				</Scene>
+			</Scene>
+			<Int sr="arg5" val="0"/>
+			<Int sr="arg6" val="2"/>
+		</ListElement>
+		<TextElement sr="elements1" ve="3">
+			<flags>4</flags>
+			<geom>13,0,760,162,6,0,338,72</geom>
+			<Str sr="arg0" ve="3">Title</Str>
+			<Str sr="arg1" ve="3">Titolo</Str>
+			<Int sr="arg2" val="28"/>
+			<Int sr="arg3" val="100"/>
+			<Str sr="arg4" ve="3">#FF0056D1</Str>
+			<Str sr="arg5" ve="3"/>
+			<Int sr="arg6" val="3"/>
+			<Int sr="arg7"/>
+			<Int sr="arg8"/>
+		</TextElement>
+		<RectElement sr="elements2">
+			<flags>4</flags>
+			<geom>0,162,774,6,-1,-1,-1,-1</geom>
+			<Str sr="arg0" ve="3">Header</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">#77333333</Str>
+			<Str sr="arg3" ve="3"/>
+			<Int sr="arg4" val="0"/>
+			<Str sr="arg5" ve="3">#FF000000</Str>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</RectElement>
+		<PropertiesElement sr="props">
+			<Int sr="arg0" val="1"/>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3">#FF000000</Str>
+			<Int sr="arg3" val="0"/>
+			<Str sr="arg4" ve="3">IconAndTextMenu</Str>
+			<Str sr="arg5" ve="3"/>
+			<Img sr="arg6" ve="2"/>
+			<Str sr="arg7" ve="3"/>
+		</PropertiesElement>
+	</Scene>
+	<Task sr="task5">
+		<cdate>1722858560854</cdate>
+		<edate>1722860933802</edate>
+		<id>5</id>
+		<nme>Ask</nme>
+		<pri>6</pri>
+		<Action sr="act0" ve="7">
+			<code>551</code>
+			<Str sr="arg0" ve="3">Add to target.txt?</Str>
+			<Str sr="arg1" ve="3"/>
+			<Str sr="arg2" ve="3">IconAndTextMenu</Str>
+			<Int sr="arg3" val="30"/>
+			<Int sr="arg4" val="1"/>
+			<ListElementItem sr="item0">
+				<label>Add</label>
+				<Action sr="action" ve="7">
+					<code>123</code>
+					<Str sr="arg0" ve="3">echo "\n%evtprm2" &gt;&gt; /data/adb/tricky_store/target.txt</Str>
+					<Int sr="arg1" val="0"/>
+					<Int sr="arg2" val="1"/>
+					<Str sr="arg3" ve="3"/>
+					<Str sr="arg4" ve="3"/>
+					<Str sr="arg5" ve="3"/>
+					<Int sr="arg6" val="1"/>
+					<Int sr="arg7" val="0"/>
+				</Action>
+				<Img sr="icon" ve="2">
+					<nme>mw_action_lock_outline</nme>
+				</Img>
+			</ListElementItem>
+			<ListElementItem sr="item1">
+				<label>Do Not Add</label>
+				<Img sr="icon" ve="2">
+					<nme>mw_action_lock_open</nme>
+				</Img>
+			</ListElementItem>
+		</Action>
+	</Task>
+</TaskerData>
